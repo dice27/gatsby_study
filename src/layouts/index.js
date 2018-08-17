@@ -19,25 +19,25 @@ class Template extends React.Component {
         <div
           className={styles.topimage}
         >
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
+          <h1
             style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'white',
+              ...scale(1.5),
+              marginBottom: rhythm(1.5),
+              marginTop: 0,
             }}
-            to={'/'}
           >
-            XXX Test Blog
-          </Link>
-        </h1>
-      </div>
+            <Link
+              style={{
+                boxShadow: 'none',
+                textDecoration: 'none',
+                color: 'white',
+              }}
+              to={'/'}
+            >
+              XXX Test Blog
+            </Link>
+          </h1>
+        </div>
       )
     } else {
       header = (
