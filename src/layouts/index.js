@@ -22,6 +22,7 @@ class Template extends React.Component {
           <h1
             style={{
               ...scale(1.5),
+              marginLeft: rhythm(1),
               marginBottom: rhythm(1.5),
               marginTop: 0,
             }}
