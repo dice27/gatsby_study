@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import { rhythm, scale } from '../utils/typography'
+import styles from "./layouts.module.css";
 
 class Template extends React.Component {
   render() {
@@ -15,6 +16,9 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
+        <div
+          className={styles.topimage}
+        >
         <h1
           style={{
             ...scale(1.5),
@@ -26,13 +30,14 @@ class Template extends React.Component {
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
-              color: 'inherit',
+              color: 'white',
             }}
             to={'/'}
           >
             XXX Test Blog
           </Link>
         </h1>
+      </div>
       )
     } else {
       header = (
@@ -57,16 +62,18 @@ class Template extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <div>
         {header}
+        <div
+          style={{
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            maxWidth: rhythm(24),
+            //padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          }}
+        >
         {children()}
+        </div>
       </div>
     )
   }
