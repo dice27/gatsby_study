@@ -13,6 +13,7 @@ class Bio extends React.Component {
       <div
         style={{
           display: 'flex',
+          marginTop: rhythm(2),
           marginBottom: rhythm(2.5),
         }}
       >
