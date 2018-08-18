@@ -10,7 +10,23 @@ class Footer extends React.Component {
   render() {
     return (
       <footer>
-        <div>© xxx Team.</div>
+        <hr
+          style={{
+            marginBottom: rhythm(0.5),
+          }}
+        />
+        <div
+        style={{
+          color: '#666',
+          fontSize: '12px',
+          paddingTop: rhythm(0.3),
+          marginBottom: rhythm(0.3),
+          lineHeight: '2.2em',
+          textAlign: 'center',
+        }}
+        >
+        © xxx Team.
+        </div>
       </footer>
     )
   }
