@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 
 import { rhythm, scale } from '../utils/typography'
 import styles from "./layouts.module.css";
+require("prismjs/themes/prism-solarizedlight.css");
 
 class Template extends React.Component {
   render() {
