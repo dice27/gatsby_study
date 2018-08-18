@@ -12,4 +12,15 @@ puts 'Hello World.'
 
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at turpis sed, ultricies auctor nulla. Aenean vestibulum ac enim vel pretium. Nulla rutrum pretium risus vitae efficitur. Nulla a commodo magna. Pellentesque non neque commodo, auctor sem eget, viverra risus. Nulla finibus justo et tortor ullamcorper sodales. Integer dignissim, nulla et pulvinar laoreet, diam metus tristique eros, quis convallis turpis urna ut metus. Mauris convallis egestas massa eu posuere. Nulla dapibus tellus risus, quis tempor enim accumsan id. Donec sed maximus nisi. Nunc a tellus ut diam commodo rhoncus at a elit. Integer sagittis venenatis magna, eu pharetra felis tristique quis. Nulla id felis sem. Mauris eget tempus est, vel rutrum libero. Maecenas sed neque eu nunc pretium pellentesque ac eu dolor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at turpis sed, ultricies auctor nulla. Aenean vestibulum ac enim vel pretium.
+
+Oh, and here's a great quote from this Wikipedia on
+[penguins](https://en.wikipedia.org/wiki/Penguin).
+
+> Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds.
+> They live almost exclusively in the Southern Hemisphere, with only one species, the Galapagos penguin, found north of the equator.
+> Highly adapted for life in the water, penguins have countershaded dark and white plumage, and their wings have evolved into flippers.
+> Most penguins feed on krill, fish, squid and other forms of sea life which they catch while swimming underwater.
+> They spend roughly half of their lives on land and the other half in the sea.
+
+![Penguins](./penguins.jpg)
