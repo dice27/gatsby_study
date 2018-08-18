@@ -15,6 +15,8 @@ puts 'Hello World.'
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at turpis sed, ultricies auctor nulla. Aenean vestibulum ac enim vel pretium.
 
+---
+
 ### Penguins
 
 Oh, and here's a great quote from this Wikipedia on
