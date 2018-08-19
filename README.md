@@ -1,9 +1,25 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+gatsby_study
+====
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+Repository for studying Gatsby.
+
+## Description
+
+Repository for studying Gatsby.  
+Create blog using following starters.
 
 `gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
 
-## Running in development
-`gatsby develop`
+
+## Demo
+
+[Demo page](https://dice27.github.io/gatsby_study/)
+
+## Licence
+
+[MIT](https://github.com/dice27/gatsby_study/blob/master/LICENSE)
+
+
+## Author
+
+[dice27](https://github.com/dice27)
