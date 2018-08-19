@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{397:function(t,e){t.exports={data:{site:{siteMetadata:{title:"XXX Test Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"This is my first post on my new fake blog! How exciting! Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at…",fields:{slug:"/2018-08-19/"},frontmatter:{date:"19 August, 2018",title:"Hello World - ハローワールド"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e58c5826f9c5497e0dd2.js.map

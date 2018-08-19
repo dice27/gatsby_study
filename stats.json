@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "path---2018-08-19": [
+      "path---2018-08-19-b6ff69c071e82e72dcee.js",
+      "path---2018-08-19-b6ff69c071e82e72dcee.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6af99ff66afadc7e8a5d.js",
+      "component---src-pages-index-js-6af99ff66afadc7e8a5d.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-bc9c0d7e425fe2b716b1.js",
+      "component---src-templates-blog-post-js-bc9c0d7e425fe2b716b1.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-80cd1793d670f04cbb42.js",
+      "component---src-layouts-index-js-80cd1793d670f04cbb42.js.map"
+    ],
+    "path---index": [
+      "path---index-e58c5826f9c5497e0dd2.js",
+      "path---index-e58c5826f9c5497e0dd2.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a2d579bbb10fd42cfc09.js",
+      "build-js-styles.css",
+      "commons-a2d579bbb10fd42cfc09.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-2571e99d7669dad856b4.js",
+      "build-js-styles.css",
+      "app-2571e99d7669dad856b4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

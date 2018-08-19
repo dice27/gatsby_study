@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[XXX Test Blog]]></title><description><![CDATA[Learning blog.]]></description><link>https://dice27.github.io/gatsby_study/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Aug 2018 12:08:13 GMT</lastBuildDate><item><title><![CDATA[Hello World - ハローワールド]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at…]]></description><link>https://dice27.github.io/gatsby_study//2018-08-19/</link><guid isPermaLink="false">https://dice27.github.io/gatsby_study//2018-08-19/</guid><pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog!&lt;br&gt;
+How exciting!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;
+      &lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;#!/usr/bin/env ruby&lt;/span&gt;
+
+puts &lt;span class=&quot;token string&quot;&gt;&apos;Hello World.&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam velit, lobortis at turpis sed, ultricies auctor nulla. Aenean vestibulum ac enim vel pretium.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Penguins&lt;/h3&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Penguin&quot;&gt;penguins&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds.&lt;br&gt;
+They live almost exclusively in the Southern Hemisphere, with only one species, the Galapagos penguin, found north of the equator.&lt;br&gt;
+Highly adapted for life in the water, penguins have countershaded dark and white plumage, and their wings have evolved into flippers.&lt;br&gt;
+Most penguins feed on krill, fish, squid and other forms of sea life which they catch while swimming underwater.&lt;br&gt;
+They spend roughly half of their lives on land and the other half in the sea.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-90e0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGShi02Uh//xAAYEAEBAQEBAAAAAAAAAAAAAAACAwERAP/aAAgBAQABBQJ2fs19k66Lgrw6VLmT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgIDAQEAAAAAAAAAAAAAAAECIREiMUHx/9oACAEBAAY/AniT2tkm5vTh6Rr4WuiWD//EABkQAQEBAQEBAAAAAAAAAAAAAAERACFhMf/aAAgBAQABPyG74Y8PDIVCV+zFmzeQyxJ7GZa6Au+FId3/2gAMAwEAAgADAAAAEIcv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ENqP/8QAHRABAAIBBQEAAAAAAAAAAAAAAREhADFBUWGBkf/aAAgBAQABPxA5AGAwS+ATE75YhlJVUrhNc1WhQSPTGIQksIg1fbhgYFI8tHhkHSUO98//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Penguins&quot;
+        title=&quot;&quot;
+        src=&quot;/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-f8fb9.jpg&quot;
+        srcset=&quot;/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-e8976.jpg 148w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-63df2.jpg 295w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-f8fb9.jpg 590w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-85e3d.jpg 885w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-d1924.jpg 1180w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-9452e.jpg 1770w,
+/gatsby_study/static/penguins-3045674c5862cc5e13bb929f18c36260-90e0b.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
