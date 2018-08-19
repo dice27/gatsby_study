@@ -3,9 +3,9 @@ module.exports = {
     title: 'XXX Test Blog',
     author: 'dice27',
     description: 'Learning blog.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://dice27.github.io/gatsby_study/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/gatsby_study',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
