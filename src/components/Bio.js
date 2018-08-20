@@ -30,8 +30,13 @@ class Bio extends React.Component {
         <p>
           Written by <strong>xxx Team.</strong> who lives and works in Osaka,
           Japan building useful things.{' '}
-          <a href="#">
-            You should follow him on Twitter
+          <a
+            href="#"
+            style={{
+              color:'#4C2600'
+            }}
+          >
+            You should follow us on Twitter
           </a>
         </p>
       </div>
