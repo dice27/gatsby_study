@@ -44,24 +44,34 @@ class Template extends React.Component {
       )
     } else {
       header = (
-        <h3
+        <div
           style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
+            backgroundColor: '#312114',
+            color: '#FBE9D6',
+            height: rhythm(2.8),
+            textAlign: 'center',
           }}
         >
-          <Link
+          <h2
             style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
+              fontFamily: 'Montserrat, sans-serif',
+              marginTop: 0,
+              marginBottom: rhythm(-1),
+              lineHeight: rhythm(2.8),
             }}
-            to={'/'}
           >
-            XXX Test Blog
-          </Link>
-        </h3>
+            <Link
+              style={{
+                boxShadow: 'none',
+                textDecoration: 'none',
+                color: 'inherit',
+              }}
+              to={'/'}
+            >
+              XXX Test Blog
+            </Link>
+          </h2>
+        </div>
       )
     }
     return (
